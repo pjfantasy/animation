@@ -1,3 +1,6 @@
-.ahihi {
-  padding: 0px;
+.container {
+  margin: auto;
+  position: fixed;
+  top: 20%;
+  left: 50%;
 }
